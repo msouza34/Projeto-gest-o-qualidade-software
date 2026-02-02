@@ -1,18 +1,28 @@
 # 📊 Projeto de Gestão e Qualidade de Software
 
 ## 📌 Sobre o projeto
-Este é um projeto acadêmico desenvolvido na disciplina de Gestão e Qualidade de Software.
+Projeto acadêmico desenvolvido na disciplina de Gestão e Qualidade de Software, com foco na aplicação de conceitos de qualidade, processos e boas práticas na engenharia de software.
+
+## 🎯 Objetivo
+Documentar e aplicar práticas de gestão e qualidade de software em um contexto acadêmico.
+
+## 📁 Estrutura do repositório
+- 📄 **Gestao_Qualidade_Software_FINAL.pdf**  
+  Documento final do projeto.
+
+- 📝 **prototipos/Projeto_Gestao_Qualidade_Software_PROTOTIPO.docx**  
+  Protótipo / versão preliminar utilizado durante o desenvolvimento.
 
 ## 📄 Documentação
-A documentação completa do projeto está disponível no PDF abaixo:
-
-👉 [Acessar PDF do projeto](./Gestão%20e%20qualidade%20de%20software.pdf)
+👉 [Acessar documentação final em PDF](Gestao_Qualidade_Software_FINAL.pdf)
 
 ## 👨‍🎓 Contexto acadêmico
 Projeto desenvolvido para fins acadêmicos.
 
----
-Autor: Matheus Silva
+## ✍️ Autor
+**Matheus Silva**
+
+
 
 
 
