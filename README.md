@@ -1,23 +1,60 @@
-# 📊 Projeto de Gestão e Qualidade de Software
+# 🏋️ Sistema de Gestão de Séries de Academia
 
 ## 📌 Sobre o projeto
-Projeto acadêmico desenvolvido na disciplina de Gestão e Qualidade de Software, com foco na aplicação de conceitos de qualidade, processos e boas práticas na engenharia de software.
+Projeto acadêmico desenvolvido na disciplina de **Gestão e Qualidade de Software**, com foco no planejamento e aplicação de metodologias ágeis.
+
+O projeto propõe o desenvolvimento conceitual de um sistema **web/mobile** para gerenciar treinos, séries e fichas de alunos em academias.
+
+---
 
 ## 🎯 Objetivo
-Documentar e aplicar práticas de gestão e qualidade de software em um contexto acadêmico.
+Auxiliar academias na gestão personalizada de treinos, oferecendo controle ao instrutor e melhor experiência ao aluno.
 
-## 📁 Estrutura do repositório
-- 📄 **Gestao_Qualidade_Software_FINAL.pdf**  
-  Documento final do projeto.
+---
 
-- 📝 **prototipos/Projeto_Gestao_Qualidade_Software_PROTOTIPO.docx**  
-  Protótipo / versão preliminar utilizado durante o desenvolvimento.
+## 🧩 Funcionalidades Principais
+**Instrutor**
+- Criar fichas de treino personalizadas
+- Registrar avaliações físicas
+- Acompanhar evolução dos alunos
+
+**Aluno**
+- Visualizar ficha de treino
+- Marcar treinos como concluídos
+- Consultar histórico e progresso
+
+---
+
+## 🔄 Metodologia
+- Metodologia Ágil: **Scrum + Kanban**
+- Planejamento por sprints
+- Organização de tarefas via Trello
+
+---
+
+## 🛠️ Tecnologias (proposta)
+- React Native / React.js  
+- Node.js + Express  
+- MongoDB ou Firebase  
+- Git e GitHub  
+
+> Projeto com foco em **gestão, qualidade e documentação**, não na implementação completa do sistema.
+
+---
 
 ## 📄 Documentação
-👉 [Acessar documentação final em PDF](Gestao_Qualidade_Software_FINAL.pdf)
+👉 [Acessar documentação completa em PDF](Gestao_Qualidade_Software_FINAL.pdf)
 
-## 👨‍🎓 Contexto acadêmico
-Projeto desenvolvido para fins acadêmicos.
+---
+
+## 👨‍🎓 Contexto Acadêmico
+Projeto desenvolvido em grupo para fins acadêmicos.
+
+
+
+
+
+
 
 
 
