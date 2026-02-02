@@ -50,7 +50,14 @@ Auxiliar academias na gestão personalizada de treinos, oferecendo controle ao i
 ## 👨‍🎓 Contexto Acadêmico
 Projeto desenvolvido em grupo para fins acadêmicos.
 
+---
 
+## 👥 Autores
+- Gabriel do Nascimento Pereira de Brito
+- João Eduardo Fonseca Cubas
+- Matheus Silva de Souza
+- Miguel Ozana de Campos Silva
+- Raphael Costa Silva Valente
 
 
 
